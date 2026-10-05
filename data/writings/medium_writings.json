@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Hidden Reason Money Should Never Be Stored as Float",
+    "url": "https://ganeshkumarm1.medium.com/the-hidden-reason-money-should-never-be-stored-as-float-0d276ce284a6?source=rss-24546a9100c8------2",
+    "date": "2026-04-21",
+    "displayDate": "APR 2026",
+    "excerpt": "Tiny precision errors. Big money problems."
+  },
+  {
+    "title": "Why Maps Don’t Store Every Road Point (And Still Look Perfect)",
+    "url": "https://ganeshkumarm1.medium.com/why-maps-dont-store-every-road-point-and-still-look-perfect-0d1d4865d997?source=rss-24546a9100c8------2",
+    "date": "2026-04-14",
+    "displayDate": "APR 2026",
+    "excerpt": "The simple idea behind Ramer-Douglas–Peucker that keeps maps fast, clean, and accurate"
+  },
+  {
+    "title": "Neural Networks Explained with a Biryani: How Models Actually Learn",
+    "url": "https://ganeshkumarm1.medium.com/neural-networks-explained-with-a-biryani-how-models-actually-learn-162d732f8d19?source=rss-24546a9100c8------2",
+    "date": "2026-04-07",
+    "displayDate": "APR 2026",
+    "excerpt": "Because sometimes, the best way to understand AI is through food"
+  },
+  {
+    "title": "I Built an AI That Knows When I’m Wasting Time",
+    "url": "https://ganeshkumarm1.medium.com/i-built-an-ai-that-knows-when-im-wasting-time-71cd26e97edb?source=rss-24546a9100c8------2",
+    "date": "2026-03-26",
+    "displayDate": "MAR 2026",
+    "excerpt": "A simple system that tracks my attention, understands my intent, and nudges me when I start to drift."
+  },
+  {
+    "title": "Predicate and BiPredicate in Java",
+    "url": "https://ganeshkumarm1.medium.com/predicate-and-function-in-java-837b46c6dcf7?source=rss-24546a9100c8------2",
+    "date": "2021-12-19",
+    "displayDate": "DEC 2021",
+    "excerpt": "Understanding boolean-valued functions in Java"
+  },
+  {
+    "title": "Tamper Web Pages Using Tampermonkey",
+    "url": "https://ganeshkumarm1.medium.com/tamper-web-pages-using-tampermonkey-bc027288bf96?source=rss-24546a9100c8------2",
+    "date": "2021-07-04",
+    "displayDate": "JUL 2021",
+    "excerpt": "Write custom javascript to modify any web pages"
+  },
+  {
+    "title": "Understanding Apache MultiKeyMap",
+    "url": "https://ganeshkumarm1.medium.com/understanding-apache-multikeymap-170fe518cb96?source=rss-24546a9100c8------2",
+    "date": "2021-07-01",
+    "displayDate": "JUL 2021",
+    "excerpt": "A data structure to store values with multiple keys in a map"
+  },
+  {
+    "title": "Understanding Builder Design Pattern",
+    "url": "https://ganeshkumarm1.medium.com/understanding-builder-design-pattern-761fbf9f48f1?source=rss-24546a9100c8------2",
+    "date": "2021-05-15",
+    "displayDate": "MAY 2021",
+    "excerpt": "Build complex objects step by step"
+  },
+  {
+    "title": "Google Chrome — How to Inspect Websites on Mobile Devices",
+    "url": "https://ganeshkumarm1.medium.com/google-chrome-how-to-inspect-websites-on-mobile-devices-804677f863ce?source=rss-24546a9100c8------2",
+    "date": "2021-04-21",
+    "displayDate": "APR 2021",
+    "excerpt": "Easy way to inspect sites on a mobile device"
+  },
+  {
+    "title": "Get Support from Your Audience via Buy Me a Coffee ☕",
+    "url": "https://ganeshkumarm1.medium.com/get-support-from-your-audience-via-buy-me-a-coffee-84009b6e80dc?source=rss-24546a9100c8------2",
+    "date": "2021-04-17",
+    "displayDate": "APR 2021",
+    "excerpt": "Easily integrate with your Portfolio, Twitter, and more"
+  }
+]
